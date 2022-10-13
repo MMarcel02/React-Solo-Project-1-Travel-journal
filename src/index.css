@@ -1,0 +1,9 @@
+*{
+  font-family: 'Inter';
+  color: #2B283A;
+  box-sizing: border-box;
+}
+
+body, html{ 
+  margin: 0;
+}
